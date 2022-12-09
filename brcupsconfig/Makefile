@@ -32,7 +32,7 @@ UICIMPLS =
 SRCMOC	=	
 OBJMOC	=	
 DIST	=	
-TARGET	=	brcupsconfig
+TARGET	=	brcupsconfig.exe
 INTERFACE_DECL_PATH = .
 
 ####### Implicit rules
